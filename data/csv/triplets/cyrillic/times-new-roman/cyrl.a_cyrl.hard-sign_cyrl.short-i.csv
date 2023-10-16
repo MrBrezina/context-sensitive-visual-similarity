@@ -1,0 +1,4 @@
+,,counts,frequencies,CI
+cyrl.a,а,32.0,0.44,"(0.32, 0.56)"
+cyrl.hard-sign,ъ,8.0,0.11,"(0.05, 0.2)"
+cyrl.short-i,й,33.0,0.45,"(0.34, 0.57)"

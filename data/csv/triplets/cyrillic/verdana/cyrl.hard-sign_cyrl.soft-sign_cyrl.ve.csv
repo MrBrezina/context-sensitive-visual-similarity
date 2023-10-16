@@ -1,0 +1,4 @@
+,,counts,frequencies,CI
+cyrl.hard-sign,ъ,16.0,0.27,"(0.16, 0.4)"
+cyrl.soft-sign,ь,1.0,0.02,"(0.0, 0.09)"
+cyrl.ve,в,43.0,0.72,"(0.59, 0.83)"

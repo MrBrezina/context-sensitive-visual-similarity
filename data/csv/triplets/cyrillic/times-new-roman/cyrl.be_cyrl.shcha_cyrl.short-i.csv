@@ -1,0 +1,4 @@
+,,counts,frequencies,CI
+cyrl.be,б,59.0,0.81,"(0.7, 0.89)"
+cyrl.shcha,щ,9.0,0.12,"(0.06, 0.22)"
+cyrl.short-i,й,5.0,0.07,"(0.02, 0.15)"

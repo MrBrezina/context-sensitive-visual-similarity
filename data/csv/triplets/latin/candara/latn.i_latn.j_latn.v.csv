@@ -1,0 +1,4 @@
+,,counts,frequencies,CI
+latn.i,i,,,"(nan, nan)"
+latn.j,j,3.0,0.05,"(nan, nan)"
+latn.v,v,58.0,0.95,"(nan, nan)"

@@ -1,0 +1,16 @@
+script,design skills,native,non-native,fluent,non-fluent
+cyrillic,Graphic designer,74,3,76,1
+cyrillic,Letter designer,28,5,28,5
+cyrillic,Non-designer,334,35,347,22
+cyrillic,Other designer,30,1,30,1
+cyrillic,Typographer,14,4,14,4
+devanagari,Graphic designer,5,16,8,13
+devanagari,Letter designer,11,13,14,10
+devanagari,Non-designer,231,125,313,43
+devanagari,Other designer,22,18,32,8
+devanagari,Typographer,2,10,5,7
+latin,Graphic designer,160,10,170,0
+latin,Letter designer,81,10,90,1
+latin,Non-designer,400,11,411,0
+latin,Other designer,81,4,85,0
+latin,Typographer,43,6,48,1

@@ -1,0 +1,4 @@
+,,counts,frequencies,CI
+cyrl.e,э,3.0,0.05,"(nan, nan)"
+cyrl.ie,е,,,"(nan, nan)"
+cyrl.pe,п,59.0,0.95,"(nan, nan)"
