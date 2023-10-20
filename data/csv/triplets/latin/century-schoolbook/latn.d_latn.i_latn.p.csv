@@ -1,4 +1,4 @@
 ,,counts,frequencies,CI
-latn.d,d,1.0,0.02,"(0.0, 0.09)"
-latn.i,i,56.0,0.93,"(0.84, 0.98)"
-latn.p,p,3.0,0.05,"(0.01, 0.14)"
+latn.d,d,,,"(nan, nan)"
+latn.i,i,56.0,0.95,"(nan, nan)"
+latn.p,p,3.0,0.05,"(nan, nan)"
