@@ -1,6 +1,6 @@
 ,candara,century-schoolbook
-latn.i,0.0,2.0
+latn.i,0.0,1.0
 latn.j,3.0,4.0
-latn.v,58.0,55.0
-p-value,0.412,0.412
+latn.v,58.0,56.0
+p-value,0.717,0.717
 effect,False,False
