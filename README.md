@@ -29,3 +29,7 @@ As IPython notebooks in the `data/` folder.
 - preprocessing the raw data from the studies
 - statistical analysis of the data
 - comparisons of the results between typefaces
+
+## Licence
+
+All content of this repository is available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
