@@ -1,0 +1,22 @@
+script,T1,T2,shared triplets,effect
+cyrillic,century-schoolbook,courier-new,1,1
+cyrillic,pt-sans,pt-serif,1,0
+devanagari,devanagari-mt,nirmala-ui,4,0
+devanagari,lohit-devanagari,murty-hindi,1,1
+latin,arial,times-new-roman,1,0
+latin,calibri,candara,4,0
+latin,calibri,century-schoolbook,56,5
+latin,calibri,georgia,4,1
+latin,calibri,verdana,1,0
+latin,cambria,futura,4,0
+latin,cambria,pt-sans,35,9
+latin,cambria,pt-serif,4,0
+latin,cambria,times-new-roman,1,0
+latin,candara,century-schoolbook,4,1
+latin,candara,georgia,56,19
+latin,century-schoolbook,georgia,4,0
+latin,century-schoolbook,verdana,1,0
+latin,courier-new,verdana,1,1
+latin,futura,pt-sans,1,0
+latin,futura,pt-serif,56,25
+latin,pt-sans,pt-serif,1,0
