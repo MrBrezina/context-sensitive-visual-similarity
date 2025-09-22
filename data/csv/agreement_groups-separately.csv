@@ -1,0 +1,22 @@
+,Script,Group,Participants,Alpha,Entropy,Response total (mean)
+0,Cyrillic,Fluent,482,0.55,2.81 ± 0.17,60.2
+1,Cyrillic,Non-fluent,27,0.60,2.77 ± 0.13,3.4
+2,Cyrillic,Native,472,0.55,2.81 ± 0.17,59.0
+3,Cyrillic,Non-native,37,0.61,2.80 ± 0.14,4.6
+4,Cyrillic,Non-designers,361,0.55,2.82 ± 0.17,45.1
+5,Cyrillic,Designers,121,0.57,2.78 ± 0.18,15.1
+6,Cyrillic,Letter designers,27,0.54,2.79 ± 0.16,3.4
+7,Devanagari,Fluent,356,0.47,2.75 ± 0.17,44.5
+8,Devanagari,Non-fluent,76,0.51,2.77 ± 0.14,9.5
+9,Devanagari,Native,259,0.47,2.76 ± 0.18,32.4
+10,Devanagari,Non-native,173,0.49,2.76 ± 0.15,21.6
+11,Devanagari,Non-designers,345,0.47,2.76 ± 0.17,43.1
+12,Devanagari,Designers,69,0.45,2.75 ± 0.17,8.6
+13,Devanagari,Letter designers,18,0.62,2.79 ± 0.14,2.2
+14,Latin,Fluent,778,0.59,2.79 ± 0.17,64.8
+15,Latin,Non-fluent,2,—,—,—
+16,Latin,Native,744,0.59,2.79 ± 0.17,62.0
+17,Latin,Non-native,36,0.59,2.77 ± 0.19,3.0
+18,Latin,Non-designers,395,0.59,2.80 ± 0.15,32.9
+19,Latin,Designers,296,0.58,2.76 ± 0.18,24.7
+20,Latin,Letter designers,89,0.65,2.78 ± 0.19,7.4

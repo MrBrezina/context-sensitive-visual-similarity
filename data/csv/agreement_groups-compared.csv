@@ -1,0 +1,16 @@
+,Script,Groups compared,Trials,Agreement,Spearman (r),Spearman (p),Entropy (p),Entropy (result),Response total (mean)
+0,Cyrillic,Fluent vs. non-fluent,0,—,—,—,—,—,—
+1,Cyrillic,Native vs. non-native,56,83.9 %,0.91,0.000,0.240,nothing,53.6
+2,Cyrillic,Non-designers vs. Designers,336,87.5 %,0.87,0.000,0.010,reject null,33.6
+3,Cyrillic,Letter designers vs. Designers,0,—,—,—,—,—,—
+4,Cyrillic,Non-designers vs. Letter designer,0,—,—,—,—,—,—
+5,Devanagari,Fluent vs. non-fluent,168,74.4 %,0.75,0.000,0.844,nothing,35.7
+6,Devanagari,Native vs. non-native,448,80.8 %,0.77,0.000,0.439,nothing,27.0
+7,Devanagari,Non-designers vs. Designers,112,79.5 %,0.82,0.000,0.673,nothing,37.0
+8,Devanagari,Letter designers vs. Designers,0,—,—,—,—,—,—
+9,Devanagari,Non-designers vs. Letter designer,0,—,—,—,—,—,—
+10,Latin,Fluent vs. non-fluent,0,—,—,—,—,—,—
+11,Latin,Native vs. non-native,0,—,—,—,—,—,—
+12,Latin,Non-designers vs. Designers,672,88.1 %,0.88,0.000,0.005,reject null,28.8
+13,Latin,Letter designers vs. Designers,168,83.3 %,0.76,0.000,0.179,nothing,22.2
+14,Latin,Non-designers vs. Letter designer,168,83.3 %,0.83,0.000,0.788,nothing,28.8
