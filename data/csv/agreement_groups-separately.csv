@@ -1,22 +1,22 @@
-,Script,Group,Participants,Gwet,Entropy,Response total (mean)
-0,Cyrillic,Fluent,482,"(0.54, 0.57)","(2.808, 2.809)",60.2
-1,Cyrillic,Non-fluent,27,"(0.56, 0.64)","(2.773, 2.776)",3.4
-2,Cyrillic,Native,472,"(0.54, 0.57)","(2.807, 2.808)",59.0
-3,Cyrillic,Non-native,37,"(0.55, 0.61)","(2.799, 2.802)",4.6
-4,Cyrillic,Non-designers,361,"(0.54, 0.57)","(2.818, 2.819)",45.1
-5,Cyrillic,Designers,121,"(0.56, 0.60)","(2.776, 2.778)",15.1
-6,Cyrillic,Letter designers,27,"(0.51, 0.58)","(2.792, 2.796)",3.4
-7,Devanagari,Fluent,356,"(0.46, 0.48)","(2.754, 2.756)",44.5
-8,Devanagari,Non-fluent,76,"(0.50, 0.54)","(2.765, 2.767)",9.5
-9,Devanagari,Native,259,"(0.45, 0.48)","(2.757, 2.758)",32.4
-10,Devanagari,Non-native,173,"(0.48, 0.51)","(2.755, 2.757)",21.6
-11,Devanagari,Non-designers,345,"(0.46, 0.49)","(2.756, 2.757)",43.1
-12,Devanagari,Designers,69,"(0.44, 0.48)","(2.749, 2.751)",8.6
-13,Devanagari,Letter designers,18,"(0.56, 0.66)","(2.788, 2.792)",2.2
-14,Latin,Fluent,778,"(0.58, 0.61)","(2.786, 2.787)",64.8
-15,Latin,Non-fluent,2,—,—,—
-16,Latin,Native,744,"(0.58, 0.61)","(2.786, 2.787)",62.0
-17,Latin,Non-native,36,"(0.53, 0.62)","(2.764, 2.768)",3.0
-18,Latin,Non-designers,395,"(0.58, 0.61)","(2.804, 2.805)",32.9
-19,Latin,Designers,296,"(0.57, 0.61)","(2.761, 2.763)",24.7
-20,Latin,Letter designers,89,"(0.60, 0.65)","(2.780, 2.782)",7.4
+,Script,Group,Participants,Gwet,Gwet p,Entropy,Response total (mean)
+0,Cyrillic,Fluent,482,0.55,0.000,0.85 ± 0.002,60.2
+1,Cyrillic,Non-fluent,27,0.60,0.000,0.84 ± 0.008,3.4
+2,Cyrillic,Native,472,0.55,0.000,0.85 ± 0.002,59.0
+3,Cyrillic,Non-native,37,0.58,0.000,0.84 ± 0.007,4.6
+4,Cyrillic,Non-designers,361,0.55,0.000,0.85 ± 0.003,45.1
+5,Cyrillic,Designers,121,0.58,0.000,0.84 ± 0.005,15.1
+6,Cyrillic,Letter designers,27,0.55,0.000,0.84 ± 0.009,3.4
+7,Devanagari,Fluent,356,0.47,0.000,0.83 ± 0.003,44.5
+8,Devanagari,Non-fluent,76,0.52,0.000,0.83 ± 0.005,9.5
+9,Devanagari,Native,259,0.47,0.000,0.83 ± 0.003,32.4
+10,Devanagari,Non-native,173,0.50,0.000,0.83 ± 0.004,21.6
+11,Devanagari,Non-designers,345,0.48,0.000,0.83 ± 0.003,43.1
+12,Devanagari,Designers,69,0.46,0.000,0.83 ± 0.006,8.6
+13,Devanagari,Letter designers,18,0.61,0.000,0.84 ± 0.010,2.2
+14,Latin,Fluent,778,0.60,0.000,0.84 ± 0.002,64.8
+15,Latin,Non-fluent,2,—,—,—,—
+16,Latin,Native,744,0.60,0.000,0.84 ± 0.002,62.0
+17,Latin,Non-native,36,0.57,0.000,0.83 ± 0.010,3.0
+18,Latin,Non-designers,395,0.59,0.000,0.84 ± 0.002,32.9
+19,Latin,Designers,296,0.59,0.000,0.83 ± 0.003,24.7
+20,Latin,Letter designers,89,0.63,0.000,0.84 ± 0.006,7.4

@@ -1,16 +1,16 @@
-,Script,Groups compared,Trials,Agreement,Effect,Spearman,Spearman (p),Freq. (p),Entropy (p),Response total (mean)
-0,Cyrillic,Fluent vs. Non-fluent,56,78.6 %,0.0 %,0.87,0.000,0.533,0.020,54.4
-1,Cyrillic,Native vs. Non-native,56,83.9 %,0.0 %,0.91,0.000,0.071,0.240,53.6
-2,Cyrillic,Non-designers vs. Designers,336,87.5 %,1.2 %,0.87,0.000,0.021,0.010,33.6
-3,Cyrillic,Letter designers vs. Designers,0,—,—,—,—,—,—,—
-4,Cyrillic,Non-designers vs. Letter designer,0,—,—,—,—,—,—,—
-5,Devanagari,Fluent vs. Non-fluent,392,78.1 %,1.8 %,0.72,0.000,0.000,0.844,28.4
-6,Devanagari,Native vs. Non-native,448,80.8 %,2.7 %,0.77,0.000,0.002,0.439,27.0
-7,Devanagari,Non-designers vs. Designers,280,78.2 %,2.9 %,0.75,0.000,0.378,0.673,30.5
-8,Devanagari,Letter designers vs. Designers,0,—,—,—,—,—,—,—
-9,Devanagari,Non-designers vs. Letter designer,0,—,—,—,—,—,—,—
-10,Latin,Fluent vs. Non-fluent,0,—,—,—,—,—,—,—
-11,Latin,Native vs. Non-native,56,94.6 %,0.0 %,0.93,0.000,0.305,0.672,57.8
-12,Latin,Non-designers vs. Designers,672,88.1 %,1.3 %,0.88,0.000,0.828,0.005,28.8
-13,Latin,Letter designers vs. Designers,280,84.3 %,0.4 %,0.75,0.000,0.000,0.179,20.5
-14,Latin,Non-designers vs. Letter designer,280,81.4 %,2.9 %,0.81,0.000,0.000,0.788,26.4
+,Script,Groups compared,Trials,OOOO %,OOOO MWU,OOOO MWU (p),OOOO MWU (CLES),Spearman,FET in % (n),Spearman p,Entropy MWU (p),Response total (mean)
+0,Cyrillic,Fluent vs. Non-fluent,56,78.6 %,893,0.533,46.1 %,0.87,0.0 % (0),0.000,8236 (0.020),54.4
+1,Cyrillic,Native vs. Non-native,56,83.9 %,866,0.071,39.2 %,0.91,0.0 % (0),0.000,9745 (0.240),53.6
+2,Cyrillic,Non-designers vs. Designers,336,87.5 %,38476,0.021,44.5 %,0.87,1.2 % (4),0.000,25258 (0.010),33.6
+3,Cyrillic,Letter designers vs. Designers,0,—,—,—,—,—,—,—,—,—
+4,Cyrillic,Non-designers vs. Letter designer,0,—,—,—,—,—,—,—,—,—
+5,Devanagari,Fluent vs. Non-fluent,392,78.1 %,37107,0.000,39.6 %,0.72,1.8 % (7),0.000,13722 (0.845),28.4
+6,Devanagari,Native vs. Non-native,448,80.8 %,56922,0.002,43.4 %,0.77,2.7 % (12),0.000,23387 (0.439),27.0
+7,Devanagari,Non-designers vs. Designers,336,75.3 %,33234,0.455,51.9 %,0.72,2.7 % (9),0.000,12286 (0.673),28.8
+8,Devanagari,Letter designers vs. Designers,0,—,—,—,—,—,—,—,—,—
+9,Devanagari,Non-designers vs. Letter designer,0,—,—,—,—,—,—,—,—,—
+10,Latin,Fluent vs. Non-fluent,0,—,—,—,—,—,—,—,—,—
+11,Latin,Native vs. Non-native,56,94.6 %,1242,0.305,44.2 %,0.93,0.0 % (0),0.000,13952 (0.672),57.8
+12,Latin,Non-designers vs. Designers,672,88.1 %,176513,0.828,50.4 %,0.88,1.3 % (9),0.000,65744 (0.005),28.8
+13,Latin,Letter designers vs. Designers,448,85.9 %,92368,0.000,62.3 %,0.75,0.9 % (4),0.000,14408 (0.179),18.5
+14,Latin,Non-designers vs. Letter designer,448,80.8 %,48444,0.000,37.0 %,0.78,2.7 % (12),0.000,17898 (0.788),23.4
