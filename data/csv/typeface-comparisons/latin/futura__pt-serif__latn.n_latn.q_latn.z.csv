@@ -1,6 +1,6 @@
-,futura,pt-serif
-latn.n,3.0,2.0
-latn.q,24.0,22.0
-latn.z,40.0,43.0
-p-value,0.819,0.819
-effect,False,False
+,futura,futura,pt-serif,pt-serif
+,original,scaled,original,scaled
+latn.n,3.0,3.0,2.0,2.0
+latn.q,24.0,24.0,21.0,22.0
+latn.z,40.0,40.0,40.0,43.0
+p-value,0.952,0.952,0.952,0.952

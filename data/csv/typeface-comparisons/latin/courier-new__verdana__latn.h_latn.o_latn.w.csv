@@ -1,6 +1,6 @@
-,courier-new,verdana
-latn.h,19.0,18.0
-latn.o,39.0,11.0
-latn.w,27.0,56.0
-p-value,0.0,0.0
-effect,True,True
+,courier-new,courier-new,verdana,verdana
+,original,scaled,original,scaled
+latn.h,19.0,19.0,13.0,18.0
+latn.o,39.0,39.0,8.0,11.0
+latn.w,27.0,27.0,42.0,56.0
+p-value,0.0,0.0,0.0,0.0

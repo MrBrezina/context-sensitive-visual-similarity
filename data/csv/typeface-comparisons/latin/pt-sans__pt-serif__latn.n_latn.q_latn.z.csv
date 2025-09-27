@@ -1,6 +1,6 @@
-,pt-sans,pt-serif
-latn.n,1.0,2.0
-latn.q,20.0,22.0
-latn.z,44.0,41.0
-p-value,0.78,0.78
-effect,False,False
+,pt-sans,pt-sans,pt-serif,pt-serif
+,original,scaled,original,scaled
+latn.n,1.0,1.0,2.0,2.0
+latn.q,20.0,20.0,21.0,22.0
+latn.z,44.0,44.0,40.0,41.0
+p-value,0.83,0.83,0.83,0.83

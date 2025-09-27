@@ -1,6 +1,6 @@
-,calibri,century-schoolbook
-latn.o,26.0,29.0
-latn.r,17.0,8.0
-latn.x,34.0,40.0
-p-value,0.148,0.148
-effect,False,False
+,calibri,calibri,century-schoolbook,century-schoolbook
+,original,scaled,original,scaled
+latn.o,26.0,26.0,22.0,29.0
+latn.r,17.0,17.0,6.0,8.0
+latn.x,34.0,34.0,31.0,40.0
+p-value,0.188,0.188,0.188,0.188

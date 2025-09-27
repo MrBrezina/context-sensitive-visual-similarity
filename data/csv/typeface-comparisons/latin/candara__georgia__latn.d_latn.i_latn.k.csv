@@ -1,6 +1,6 @@
-,candara,georgia
-latn.d,12.0,8.0
-latn.i,46.0,48.0
-latn.k,6.0,8.0
-p-value,0.621,0.621
-effect,False,False
+,candara,candara,georgia,georgia
+,original,scaled,original,scaled
+latn.d,11.0,12.0,8.0,8.0
+latn.i,44.0,46.0,48.0,48.0
+latn.k,6.0,6.0,8.0,8.0
+p-value,0.642,0.642,0.642,0.642
