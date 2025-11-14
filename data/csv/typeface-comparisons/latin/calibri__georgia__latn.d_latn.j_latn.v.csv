@@ -1,6 +1,6 @@
-,calibri,georgia
-latn.d,17.0,14.0
-latn.j,23.0,19.0
-latn.v,37.0,44.0
-p-value,0.512,0.512
-effect,False,False
+,calibri,calibri,georgia,georgia
+,original,scaled,original,scaled
+latn.d,17.0,17.0,12.0,14.0
+latn.j,23.0,23.0,16.0,19.0
+latn.v,37.0,37.0,36.0,44.0
+p-value,0.625,0.625,0.625,0.625

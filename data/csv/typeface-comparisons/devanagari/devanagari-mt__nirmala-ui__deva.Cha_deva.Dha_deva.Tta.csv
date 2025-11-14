@@ -1,6 +1,6 @@
-,devanagari-mt,nirmala-ui
-deva.Cha,7.0,14.0
-deva.Dha,6.0,4.0
-deva.Tta,42.0,37.0
-p-value,0.215,0.215
-effect,False,False
+,devanagari-mt,devanagari-mt,nirmala-ui,nirmala-ui
+,original,scaled,original,scaled
+deva.Cha,7.0,7.0,13.0,14.0
+deva.Dha,6.0,6.0,4.0,4.0
+deva.Tta,42.0,42.0,34.0,37.0
+p-value,0.255,0.255,0.255,0.255

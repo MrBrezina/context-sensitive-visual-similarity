@@ -1,6 +1,6 @@
-,pt-sans,pt-serif
-cyrl.e,45.0,45.0
-cyrl.ha,8.0,9.0
-cyrl.te,9.0,8.0
-p-value,1.0,1.0
-effect,False,False
+,pt-sans,pt-sans,pt-serif,pt-serif
+,original,scaled,original,scaled
+cyrl.e,45.0,45.0,44.0,45.0
+cyrl.ha,8.0,8.0,9.0,9.0
+cyrl.te,9.0,9.0,7.0,8.0
+p-value,0.916,0.916,0.916,0.916

@@ -1,6 +1,6 @@
-,cambria,futura
-latn.m,2.0,1.0
-latn.q,28.0,31.0
-latn.z,44.0,42.0
-p-value,0.801,0.801
-effect,False,False
+,cambria,cambria,futura,futura
+,original,scaled,original,scaled
+latn.m,2.0,2.0,1.0,1.0
+latn.q,28.0,28.0,28.0,31.0
+latn.z,44.0,44.0,38.0,42.0
+p-value,0.893,0.893,0.893,0.893

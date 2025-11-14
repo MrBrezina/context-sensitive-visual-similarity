@@ -1,6 +1,6 @@
-,cambria,pt-sans
-latn.i,41.0,58.0
-latn.n,2.0,3.0
-latn.q,31.0,13.0
-p-value,0.003,0.003
-effect,True,True
+,cambria,cambria,pt-sans,pt-sans
+,original,scaled,original,scaled
+latn.i,41.0,41.0,51.0,58.0
+latn.n,2.0,2.0,3.0,3.0
+latn.q,31.0,31.0,11.0,13.0
+p-value,0.004,0.004,0.004,0.004

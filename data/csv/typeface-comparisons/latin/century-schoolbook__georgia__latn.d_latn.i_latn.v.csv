@@ -1,6 +1,6 @@
-,century-schoolbook,georgia
-latn.d,22.0,24.0
-latn.i,15.0,18.0
-latn.v,27.0,22.0
-p-value,0.694,0.694
-effect,False,False
+,century-schoolbook,century-schoolbook,georgia,georgia
+,original,scaled,original,scaled
+latn.d,20.0,22.0,24.0,24.0
+latn.i,14.0,15.0,18.0,18.0
+latn.v,25.0,27.0,22.0,22.0
+p-value,0.684,0.684,0.684,0.684

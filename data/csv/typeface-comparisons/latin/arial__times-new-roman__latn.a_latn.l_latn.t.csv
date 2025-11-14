@@ -1,6 +1,6 @@
-,arial,times-new-roman
-latn.a,56.0,52.0
-latn.l,8.0,15.0
-latn.t,3.0,0.0
-p-value,0.057,0.057
-effect,False,False
+,arial,arial,times-new-roman,times-new-roman
+,original,scaled,original,scaled
+latn.a,56.0,56.0,47.0,52.0
+latn.l,8.0,8.0,14.0,15.0
+latn.t,3.0,3.0,0.0,0.0
+p-value,0.075,0.075,0.075,0.075

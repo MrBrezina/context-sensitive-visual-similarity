@@ -1,6 +1,6 @@
-,calibri,candara
-latn.d,26.0,27.0
-latn.i,26.0,28.0
-latn.v,25.0,22.0
-p-value,0.881,0.881
-effect,False,False
+,calibri,calibri,candara,candara
+,original,scaled,original,scaled
+latn.d,26.0,26.0,21.0,27.0
+latn.i,26.0,26.0,22.0,28.0
+latn.v,25.0,25.0,18.0,22.0
+p-value,0.931,0.931,0.931,0.931
