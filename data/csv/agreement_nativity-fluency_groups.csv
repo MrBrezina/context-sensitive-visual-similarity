@@ -1,13 +1,13 @@
-,Script,Group,Participants,Gwet,Gwet p,Entropy,Response total (mean)
-0,Cyrillic,Fluent,482,.55,<.001,0.85 ± 0.002,60.2
-1,Cyrillic,Non-fluent,27,.60,<.001,0.84 ± 0.008,3.4
-2,Cyrillic,Native,472,.55,<.001,0.85 ± 0.002,59.0
-3,Cyrillic,Non-native,37,.58,<.001,0.84 ± 0.007,4.6
-4,Devanagari,Fluent,356,.47,<.001,0.83 ± 0.003,44.5
-5,Devanagari,Non-fluent,76,.52,<.001,0.83 ± 0.005,9.5
-6,Devanagari,Native,259,.47,<.001,0.83 ± 0.003,32.4
-7,Devanagari,Non-native,173,.50,<.001,0.83 ± 0.004,21.6
-8,Latin,Fluent,778,.60,<.001,0.84 ± 0.002,64.8
-9,Latin,Non-fluent,2,—,—,—,—
-10,Latin,Native,744,.60,<.001,0.84 ± 0.002,62.0
-11,Latin,Non-native,36,.57,<.001,0.83 ± 0.010,3.0
+,Script,Group,Participants,Gwet,Gwet p,Response total (mean)
+0,Cyrillic,Fluent,482,.55,<.001,60.2
+1,Cyrillic,Non-fluent,27,.60,<.001,3.4
+2,Cyrillic,Native,472,.55,<.001,59.0
+3,Cyrillic,Non-native,37,.58,<.001,4.6
+4,Devanagari,Fluent,356,.47,<.001,44.5
+5,Devanagari,Non-fluent,76,.52,<.001,9.5
+6,Devanagari,Native,259,.47,<.001,32.4
+7,Devanagari,Non-native,173,.50,<.001,21.6
+8,Latin,Fluent,778,.60,<.001,64.8
+9,Latin,Non-fluent,2,—,—,—
+10,Latin,Native,744,.60,<.001,62.0
+11,Latin,Non-native,36,.57,<.001,3.0
