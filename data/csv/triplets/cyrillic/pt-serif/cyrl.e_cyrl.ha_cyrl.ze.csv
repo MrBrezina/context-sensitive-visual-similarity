@@ -1,4 +1,4 @@
 ,,counts,frequencies,CI
-cyrl.e,э,6.0,0.1,"(nan, nan)"
-cyrl.ha,х,54.0,0.9,"(nan, nan)"
+cyrl.e,э,6.0,0.12,"(nan, nan)"
+cyrl.ha,х,44.0,0.88,"(nan, nan)"
 cyrl.ze,з,,,"(nan, nan)"

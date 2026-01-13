@@ -1,6 +1,6 @@
 ,futura,futura,pt-serif,pt-serif
 ,original,scaled,original,scaled
-latn.h,11.0,11.0,6.0,6.0
+latn.h,11.0,11.0,5.0,6.0
 latn.n,0.0,0.0,1.0,1.0
-latn.z,56.0,56.0,56.0,60.0
-p-value,0.303,0.303,0.303,0.303
+latn.z,56.0,56.0,46.0,60.0
+p-value,0.281,0.281,0.281,0.281

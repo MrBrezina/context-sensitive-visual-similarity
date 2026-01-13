@@ -1,6 +1,6 @@
 ,cambria,cambria,pt-serif,pt-serif
 ,original,scaled,original,scaled
-latn.n,2.0,2.0,2.0,2.0
-latn.q,22.0,22.0,21.0,25.0
-latn.z,50.0,50.0,40.0,47.0
-p-value,0.891,0.891,0.891,0.891
+latn.n,2.0,2.0,1.0,1.0
+latn.q,22.0,22.0,17.0,24.0
+latn.z,50.0,50.0,34.0,49.0
+p-value,0.933,0.933,0.933,0.933

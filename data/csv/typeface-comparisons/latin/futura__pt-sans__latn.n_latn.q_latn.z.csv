@@ -1,6 +1,6 @@
 ,futura,futura,pt-sans,pt-sans
 ,original,scaled,original,scaled
 latn.n,3.0,3.0,1.0,1.0
-latn.q,24.0,24.0,20.0,21.0
-latn.z,40.0,40.0,44.0,45.0
-p-value,0.48,0.48,0.48,0.48
+latn.q,24.0,24.0,15.0,20.0
+latn.z,40.0,40.0,34.0,46.0
+p-value,0.644,0.644,0.644,0.644

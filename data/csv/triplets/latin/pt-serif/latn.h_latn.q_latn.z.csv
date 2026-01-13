@@ -1,4 +1,4 @@
 ,,counts,frequencies,CI
 latn.h,h,,,"(nan, nan)"
-latn.q,q,13.0,0.21,"(nan, nan)"
-latn.z,z,50.0,0.79,"(nan, nan)"
+latn.q,q,10.0,0.19,"(nan, nan)"
+latn.z,z,42.0,0.81,"(nan, nan)"
